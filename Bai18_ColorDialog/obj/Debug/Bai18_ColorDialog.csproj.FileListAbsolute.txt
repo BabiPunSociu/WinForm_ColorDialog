@@ -1,0 +1,22 @@
+C:\Users\ADMIN\source\LapTrinhTrucQuan\Bài Tập LTTQ c.Huong\Bai18_ColorDialog\Bai18_ColorDialog\bin\Debug\Bai18_ColorDialog.exe.config
+C:\Users\ADMIN\source\LapTrinhTrucQuan\Bài Tập LTTQ c.Huong\Bai18_ColorDialog\Bai18_ColorDialog\bin\Debug\Bai18_ColorDialog.exe
+C:\Users\ADMIN\source\LapTrinhTrucQuan\Bài Tập LTTQ c.Huong\Bai18_ColorDialog\Bai18_ColorDialog\bin\Debug\Bai18_ColorDialog.pdb
+C:\Users\ADMIN\source\LapTrinhTrucQuan\Bài Tập LTTQ c.Huong\Bai18_ColorDialog\Bai18_ColorDialog\obj\Debug\Bai18_ColorDialog.csproj.AssemblyReference.cache
+C:\Users\ADMIN\source\LapTrinhTrucQuan\Bài Tập LTTQ c.Huong\Bai18_ColorDialog\Bai18_ColorDialog\obj\Debug\Bai18_ColorDialog.csproj.SuggestedBindingRedirects.cache
+C:\Users\ADMIN\source\LapTrinhTrucQuan\Bài Tập LTTQ c.Huong\Bai18_ColorDialog\Bai18_ColorDialog\obj\Debug\Bai18_ColorDialog.Form1.resources
+C:\Users\ADMIN\source\LapTrinhTrucQuan\Bài Tập LTTQ c.Huong\Bai18_ColorDialog\Bai18_ColorDialog\obj\Debug\Bai18_ColorDialog.Properties.Resources.resources
+C:\Users\ADMIN\source\LapTrinhTrucQuan\Bài Tập LTTQ c.Huong\Bai18_ColorDialog\Bai18_ColorDialog\obj\Debug\Bai18_ColorDialog.csproj.GenerateResource.cache
+C:\Users\ADMIN\source\LapTrinhTrucQuan\Bài Tập LTTQ c.Huong\Bai18_ColorDialog\Bai18_ColorDialog\obj\Debug\Bai18_ColorDialog.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\LapTrinhTrucQuan\Bài Tập LTTQ c.Huong\Bai18_ColorDialog\Bai18_ColorDialog\obj\Debug\Bai18_ColorDialog.exe
+C:\Users\ADMIN\source\LapTrinhTrucQuan\Bài Tập LTTQ c.Huong\Bai18_ColorDialog\Bai18_ColorDialog\obj\Debug\Bai18_ColorDialog.pdb
+C:\Users\ADMIN\OneDrive\Máy tính\WinForm_ColorDialog\Bai18_ColorDialog\bin\Debug\Bai18_ColorDialog.exe.config
+C:\Users\ADMIN\OneDrive\Máy tính\WinForm_ColorDialog\Bai18_ColorDialog\bin\Debug\Bai18_ColorDialog.exe
+C:\Users\ADMIN\OneDrive\Máy tính\WinForm_ColorDialog\Bai18_ColorDialog\bin\Debug\Bai18_ColorDialog.pdb
+C:\Users\ADMIN\OneDrive\Máy tính\WinForm_ColorDialog\Bai18_ColorDialog\obj\Debug\Bai18_ColorDialog.csproj.AssemblyReference.cache
+C:\Users\ADMIN\OneDrive\Máy tính\WinForm_ColorDialog\Bai18_ColorDialog\obj\Debug\Bai18_ColorDialog.csproj.SuggestedBindingRedirects.cache
+C:\Users\ADMIN\OneDrive\Máy tính\WinForm_ColorDialog\Bai18_ColorDialog\obj\Debug\Bai18_ColorDialog.Form1.resources
+C:\Users\ADMIN\OneDrive\Máy tính\WinForm_ColorDialog\Bai18_ColorDialog\obj\Debug\Bai18_ColorDialog.Properties.Resources.resources
+C:\Users\ADMIN\OneDrive\Máy tính\WinForm_ColorDialog\Bai18_ColorDialog\obj\Debug\Bai18_ColorDialog.csproj.GenerateResource.cache
+C:\Users\ADMIN\OneDrive\Máy tính\WinForm_ColorDialog\Bai18_ColorDialog\obj\Debug\Bai18_ColorDialog.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\OneDrive\Máy tính\WinForm_ColorDialog\Bai18_ColorDialog\obj\Debug\Bai18_ColorDialog.exe
+C:\Users\ADMIN\OneDrive\Máy tính\WinForm_ColorDialog\Bai18_ColorDialog\obj\Debug\Bai18_ColorDialog.pdb
